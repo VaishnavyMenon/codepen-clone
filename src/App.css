@@ -1,0 +1,21 @@
+.CodeMirror {
+    height: 310px !important;
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+}
+
+.CodeMirror-gutters{
+    background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll{
+    background: #1d1e22;
+}
+
+.CodeMirror-cursor {
+    border-left: 1px solid white;
+    border-right: 1px solid black;
+  }
+  
